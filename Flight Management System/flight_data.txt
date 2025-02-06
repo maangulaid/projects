@@ -1,0 +1,117 @@
+117
+Dallas|Austin|98|47
+Austin|Houston|95|39
+Dallas|Houston|101|51
+Austin|Chicago|144|192
+Dallas|Los Angeles|320|220
+Austin|San Francisco|425|295
+Houston|New York|560|400
+Chicago|Miami|410|270
+Los Angeles|Las Vegas|95|60
+San Francisco|Seattle|210|180
+New York|London|730|490
+Miami|Havana|120|90
+Mexico City|Los Angeles|1541|634
+Cairo|Toronto|1199|601
+Dublin|Sydney|703|522
+Toronto|Istanbul|271|48
+Kuala Lumpur|Hong Kong|660|466
+Madrid|Bangkok|311|334
+Warsaw|Vienna|1957|77
+Brussels|Shanghai|654|62
+Barcelona|Oslo|1776|713
+Madrid|San Francisco|1221|175
+Chicago|Prague|1152|309
+Zurich|Amsterdam|1454|442
+Miami|Vienna|1298|512
+Rome|Madrid|1391|400
+Bangkok|Barcelona|319|152
+Buenos Aires|Moscow|74|672
+Warsaw|Stockholm|1179|570
+Seoul|Rome|627|565
+Dubai|Mumbai|1040|682
+Miami|Barcelona|1268|181
+Cape Town|Budapest|928|122
+Halifax|St. John's|60|45
+Delhi|Kolkata|130|100
+Guatemala City|San Salvador|110|90
+St. John's|Reykjavik|120|90
+Kolkata|Dhaka|90|70
+San Salvador|Managua|80|60
+Reykjavik|Oslo|110|80
+Dhaka|Yangon|120|100
+Managua|San Jose|75|60
+Oslo|Stockholm|70|55
+Yangon|Bangkok|60|45
+San Jose|Panama City|90|70
+Stockholm|Helsinki|50|40
+Bangkok|Phnom Penh|70|55
+Panama City|Medellin|110|90
+Helsinki|St. Petersburg|80|70
+Phnom Penh|Ho Chi Minh City|60|50
+Medellin|Bogota|45|35
+St. Petersburg|Moscow|90|75
+Ho Chi Minh City|Hanoi|75|65
+Bogota|Caracas|100|80
+Moscow|Kiev|70|55
+Hanoi|Hai Phong|40|35
+Caracas|Bogota|90|70
+Kiev|Lviv|45|40
+Hai Phong|Da Nang|30|25
+New York|Chicago|200|180
+Chicago|Los Angeles|250|220
+Los Angeles|San Francisco|140|100
+San Francisco|Seattle|160|120
+New York|Toronto|90|75
+Toronto|Montreal|60|45
+Montreal|Quebec City|50|40
+New York|Miami|220|180
+Miami|Orlando|45|35
+Orlando|Tampa|60|50
+Miami|Key West|30|25
+Los Angeles|Las Vegas|75|60
+Las Vegas|Phoenix|50|40
+Phoenix|Albuquerque|55|45
+Albuquerque|Denver|75|60
+Denver|Las Vegas|90|70
+Seattle|Vancouver|90|75
+Vancouver|Calgary|60|50
+Calgary|Edmonton|50|40
+San Francisco|Los Angeles|130|100
+Chicago|Houston|220|180
+Houston|New Orleans|90|70
+New Orleans|Miami|110|90
+New York|Boston|80|60
+Boston|Portland|75|55
+Portland|Seattle|60|45
+Los Angeles|Honolulu|350|280
+Honolulu|Tokyo|410|320
+Tokyo|Seoul|90|75
+Seoul|Beijing|100|80
+Beijing|Shanghai|120|90
+Shanghai|Hong Kong|90|70
+Hong Kong|Bangkok|80|60
+Bangkok|Singapore|90|70
+Singapore|Kuala Lumpur|40|30
+Kuala Lumpur|Jakarta|70|55
+Jakarta|Bali|45|35
+Bali|Sydney|210|160
+Sydney|Melbourne|80|60
+Melbourne|Auckland|140|110
+Hargeisa|Muqadisho|10|20
+Warsaw|Mexico City|1369|346
+Zurich|Los Angeles|1443|131
+Johannesburg|Sydney|841|574
+Madrid|Istanbul|1519|98
+London|Cairo|540|465
+New York|Bangkok|1035|148
+Singapore|Warsaw|378|464
+Prague|Lima|463|121
+Houston|Mumbai|1808|209
+Tokyo|San Francisco|1159|435
+Paris|Berlin|1096|453
+San Francisco|Paris|1394|576
+Cape Town|Rome|1833|368
+Helsinki|Dublin|1546|109
+Warsaw|Buenos Aires|561|416
+Rio de Janeiro|Helsinki|886|609

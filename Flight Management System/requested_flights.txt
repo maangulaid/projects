@@ -1,0 +1,6 @@
+4
+Dallas|Houston|T 
+Chicago|Dallas|C
+Lima|Chicago|T
+Hargeisa|Muqadisho|T
+Blaise Diagne|Hargeisa|C

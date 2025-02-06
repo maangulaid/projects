@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "xhash": "cpp",
+        "vector": "cpp",
+        "utility": "cpp",
+        "iosfwd": "cpp",
+        "ostream": "cpp",
+        "stack": "cpp"
+    }
+}
